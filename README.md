@@ -6,6 +6,8 @@ This repository contains a **simulated, undergraduate senior-level capstone proj
 The project involved performing an **Information Technology General Controls (ITGC) audit** of a simulated Alumni/Donor Management System used to manage alumni and donor contributions. The purpose of the engagement was to assess whether appropriate IT controls were designed and operating effectively to protect sensitive donor and alumni data.
 
 All information in this repository is **fully simulated and for educational purposes only**.
+> Note: If any document does not render inline in GitHub, please download the PDF to view.
+
 
 ---
 
