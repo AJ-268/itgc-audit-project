@@ -57,13 +57,15 @@ To determine whether **data integrity is maintained** for key system interfaces 
 
 ## Individual Contributions
 As a member of the project team, my responsibilities included:
+- Participating in **walkthroughs and preliminary inquiry** by asking control-related questions of simulated stakeholders  
+- Assisting in documenting and refining the **control narrative** based on walkthroughs and inquiry  
 - Developing the **Audit Program Guide (APG)** for System Interfaces & Batch Jobs  
-- Drafting the **control narrative** based on preliminary inquiry with simulated stakeholders  
-- Performing **testing and documentation** using Excel-based workpapers  
+- Performing **testing and documentation** using Excel-based worksheets  
 - Identifying and documenting **control exceptions and observations** when applicable  
 - Contributing to the **final audit report**  
 - Designing the **stakeholder presentation** and assisting with presenting **findings and recommendations**  
 - Collaborating with team members throughout planning, execution, and reporting phases  
+
 
 ---
 
